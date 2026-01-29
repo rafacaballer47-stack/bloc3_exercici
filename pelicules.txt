@@ -1,2 +1,6 @@
 La vida de Brian
+<<<<<<< HEAD
 Monty Python and the Holy Grail
+=======
+El sentido de la vida
+>>>>>>> e9cea76 (Añadido El sentido de la vida)
